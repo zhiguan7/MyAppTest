@@ -1,0 +1,7 @@
+1. 先将Git定位到库中 cd / cd ..
+
+2.增加文件 git add
+
+3.上传 git commit -m "备注"
+
+4.登陆 git push origin master
